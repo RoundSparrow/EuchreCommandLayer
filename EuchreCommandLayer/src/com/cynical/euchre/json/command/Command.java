@@ -23,6 +23,11 @@ public enum Command {
 	ORDER_UP,
 	PASS,
 	DISCARD,
-	PLAY_CARD;
-
+	PLAY_CARD,
+	
+	//////////////////////////////
+	//	Error
+	//////////////////////////////
+	NOT_A_COMMAND;
+	
 }
